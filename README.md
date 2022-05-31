@@ -6,7 +6,6 @@ A simple utility to extract HoN guide data from pcap captures.
 
 - `hon_pcap_guide_parser.py` - The main utility
 - `/curated json/` - Folder containing pre-curated json from guides.
-- `/pcap backups/` - Backups from pcap captures of a bunch of guides.
 
 ## How to run
 
